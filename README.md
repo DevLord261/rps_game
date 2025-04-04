@@ -10,7 +10,7 @@ A rock-paper-scissors game using Flutter
 
 ## How to Install
 
-1. Clone the repository: `git clone https://github.com/username/rps_game.git`
+1. Clone the repository: `git clone https://github.com/DevLord261/rps_game.git`
 2. Navigate to the project directory: `cd rps_game`
 3. Install dependencies: `flutter pub get`
 4. Run the app: `flutter run`
